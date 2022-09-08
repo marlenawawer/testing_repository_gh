@@ -2,3 +2,4 @@
 
 testowy tekst do cwiczenia commitow!
 first branch
+and third
